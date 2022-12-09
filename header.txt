@@ -1,2 +1,2 @@
- Some text for header1
- Changes from <first>
+Some text
+Changes from <first>
