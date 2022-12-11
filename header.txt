@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Some text for header
-Changes from <main>
-Changes from <first>
->>>>>>> first
+Changes from <main< - new changes!!!
+
